@@ -1,2 +1,2 @@
-# Springer and IEEE
- This is a model to detect Depression from Social Media
+#IEEE:- Detection of Depression from Social Media
+N-grams, w2v, LSTM was used
