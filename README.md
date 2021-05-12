@@ -1,2 +1,2 @@
-# IEEE Detection of Depression from Social Media
+# Detection of Depression from Social Media
 N-grams, w2v, LSTM was used
